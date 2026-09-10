@@ -1,8 +1,10 @@
-<img width="960" height="600" alt="Screenshot 2026-09-10 214429" src="https://github.com/user-attachments/assets/40709bd9-1443-4391-849a-28dab8c04233" />
-<img width="960" height="600" alt="Screenshot 2026-09-10 214425" src="https://github.com/user-attachments/assets/dac50b93-805f-4b7f-a82b-9dba2ff96942" />
-<img width="960" height="600" alt="Screenshot 2026-09-10 214412" src="https://github.com/user-attachments/assets/718e9e48-1089-41a2-871b-0ba7f4d1f642" />
-<img width="960" height="600" alt="Screenshot 2026-09-10 214356" src="https://github.com/user-attachments/assets/f68bc979-1228-46be-b0af-b4d1258d7d71" />
 <img width="960" height="600" alt="Screenshot 2026-09-10 214345" src="https://github.com/user-attachments/assets/a8ecc088-b60d-4e29-b51f-ae2f1e608db5" />
+<img width="960" height="600" alt="Screenshot 2026-09-10 214356" src="https://github.com/user-attachments/assets/f68bc979-1228-46be-b0af-b4d1258d7d71" />
+<img width="960" height="600" alt="Screenshot 2026-09-10 214412" src="https://github.com/user-attachments/assets/718e9e48-1089-41a2-871b-0ba7f4d1f642" />
+<img width="960" height="600" alt="Screenshot 2026-09-10 214425" src="https://github.com/user-attachments/assets/dac50b93-805f-4b7f-a82b-9dba2ff96942" />
+<img width="960" height="600" alt="Screenshot 2026-09-10 214429" src="https://github.com/user-attachments/assets/40709bd9-1443-4391-849a-28dab8c04233" />
+
+
 # TJ-Tasks-2026-Ayaan-Ahmad-Task-2
 
 Pulaowala
